@@ -1,0 +1,1 @@
+![CI](https://github.com/holllygun/loading_and_sorting/actions/workflows/web.yml/badge.svg)
